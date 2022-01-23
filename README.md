@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @vjylee
-- 👀 I’m interested in medical image and informatics
-- 🌱 I’m currently learning machine learning through udacity's nanodegree program
+- 👀 I’m interested in Calculative Chemistry based on Data science and machine learning.
+- 🌱 I’m majoring Chemistry Education and Computer Science
 
-- 📫 How to reach me ...
+- 📫 How to reach me
+Email: vjylee.official@gmail.com
+LinkedIn: https://www.linkedin.com/in/victoriajayoonlee/
 
 <!---
 vjylee/vjylee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
