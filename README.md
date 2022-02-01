@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-\n![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vjylee&show_icons=true&theme=cream)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vjylee&show_icons=true&theme=cream)
