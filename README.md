@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vjylee\n
 - 👀 I’m interested in Calculative Chemistry based on Data science and machine learning.\n
-- 🌱 I’m majoring Chemistry Education and Computer Science\n
-
+- 🌱 I’m majoring Chemistry Education
 - 📫 How to reach me
 - Email: vjylee.official@gmail.com
 - LinkedIn: https://www.linkedin.com/in/victoriajayoonlee/
